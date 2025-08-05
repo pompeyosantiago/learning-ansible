@@ -1,7 +1,7 @@
 # learning-ansible
-Testing repo to learn Ansible
+### My testing repo to learn Ansible
 
 So far i'm learning:
-- Ansible's basic config -> ansible.cfg
-- Creation of inventory to select the hosts -> inventori.ini
-- Making playbooks to automate the stuff -> update_and_upgrade.yml
+- [x] How to create **ansible.cfg** to configure Ansible.
+- [x] Creation of **inventory.ini** to list my hosts.
+- [x] Making **playbooks** to automate the stuff.
